@@ -61,21 +61,19 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - large-scale data collection  
 - unobtrusive daily-life studies  
 
-## Demonstration Video
+#### Demonstration Video:
 
-<video controls playsinline muted width="720" poster="assets/images/pr1_sp_poster.jpg">
-  #<source src="assets/videos/pr1_sp_data_acquisition.mp4" type="video/mp4">
-  #Your browser does not support the video tag.
-#</video>
-
-[▶ PR1‑sp Data Acquisition (SharePoint)](https://cnrsc-my.sharepoint.com/:v:/g/personal/francesco_salamone_cnr_it/IQBXK-VtnqwfRoUgZ7jhxRXbAf77qKJNJ28_cOxuek-6UTw?e=ppEEgR)
 
 This open-source system enables:
 
 - **Reliable, autonomous spectral monitoring**  
 - **On-device computation of visual and non-visual metrics**  
 - **Affordable scaling for population studies**  
-- **Fully transparent, reproducible workflows**  
+- **Fully transparent, reproducible workflows**
+
+#### Demonstration Video:
+[!<img width="406" height="272" alt="image" src="https://github.com/user-attachments/assets/2591d484-eba6-49ba-834d-db8ed29cabc2" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
+
 
 Our goal is to make human‑centric light monitoring **accessible, modifiable, and scientifically robust**.
 
