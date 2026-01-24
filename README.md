@@ -62,7 +62,7 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - unobtrusive daily-life studies  
 
 #### Example video illustrating the PR1‑SP acquisition steps (click on the image below, and remember that the video has been sped up by a factor of 10):
-[!<img width="301" height="407" alt="image" src="https://github.com/user-attachments/assets/2eaba38f-78f6-4265-b4fb-33ce61648eba" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
+[<img width="301" height="407" alt="image" src="https://github.com/user-attachments/assets/2eaba38f-78f6-4265-b4fb-33ce61648eba" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
 
 This open-source system enables:
 
@@ -72,7 +72,7 @@ This open-source system enables:
 - **Fully transparent, reproducible workflows**
 
 #### Example video showing the LC1‑SP automatic acquisition approach (click on the image below, and remember that the video has not been sped up):
-[!<img width="581" height="262" alt="image" src="https://github.com/user-attachments/assets/b35c8d8e-4b1c-4fec-a9ba-c517c6e0b607" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
+[<img width="581" height="262" alt="image" src="https://github.com/user-attachments/assets/b35c8d8e-4b1c-4fec-a9ba-c517c6e0b607" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
 
 Our goal is to make human‑centric light monitoring **accessible, modifiable, and scientifically robust**.
 
