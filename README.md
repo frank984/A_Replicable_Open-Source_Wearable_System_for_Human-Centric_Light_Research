@@ -61,7 +61,7 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - large-scale data collection  
 - unobtrusive daily-life studies  
 
-#### Demonstration Video:
+#### Example video illustrating the PR1‑SP acquisition steps (click on the image below, and remember that the video has been sped up by a factor of 10):
 [!<img width="417" height="611" alt="image" src="https://github.com/user-attachments/assets/dbebbd76-d40b-4b78-b8f2-f0ec997968f4" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
 
 This open-source system enables:
@@ -71,7 +71,7 @@ This open-source system enables:
 - **Affordable scaling for population studies**  
 - **Fully transparent, reproducible workflows**
 
-#### Demonstration Video:
+#### Example video showing the LC1‑SP automatic acquisition approach (click on the image below, and remember that the video has not been sped up):
 [!<img width="406" height="272" alt="image" src="https://github.com/user-attachments/assets/2591d484-eba6-49ba-834d-db8ed29cabc2" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
 
 
