@@ -64,9 +64,11 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 ## Demonstration Video
 
 <video controls playsinline muted width="720" poster="assets/images/pr1_sp_poster.jpg">
-  <source src="assets/videos/pr1_sp_data_acquisition.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  #<source src="assets/videos/pr1_sp_data_acquisition.mp4" type="video/mp4">
+  #Your browser does not support the video tag.
+#</video>
+
+[▶ PR1‑sp Data Acquisition (SharePoint)](https://cnrsc-my.sharepoint.com/:v:/g/personal/francesco_salamone_cnr_it/IQBXK-VtnqwfRoUgZ7jhxRXbAf77qKJNJ28_cOxuek-6UTw?e=ppEEgR)
 
 This open-source system enables:
 
