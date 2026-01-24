@@ -72,8 +72,7 @@ This open-source system enables:
 - **Fully transparent, reproducible workflows**
 
 #### Example video showing the LC1‑SP automatic acquisition approach (click on the image below, and remember that the video has not been sped up):
-[!<img width="406" height="272" alt="image" src="https://github.com/user-attachments/assets/2591d484-eba6-49ba-834d-db8ed29cabc2" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
-
+[!<img width="581" height="262" alt="image" src="https://github.com/user-attachments/assets/b35c8d8e-4b1c-4fec-a9ba-c517c6e0b607" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
 
 Our goal is to make human‑centric light monitoring **accessible, modifiable, and scientifically robust**.
 
