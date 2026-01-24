@@ -53,13 +53,20 @@ If you use this repository, please cite the related article (DOI forthcoming)
 along with this repository.
 
 ## Why Open Source?
-https://cnrsc-my.sharepoint.com/:v:/g/personal/francesco_salamone_cnr_it/IQBXK-VtnqwfRoUgZ7jhxRXbAf77qKJNJ28_cOxuek-6UTw?e=ppEEgR
+
 Professional-grade spectroradiometers are accurate but not suitable for:
 
 - long-term monitoring  
 - mobility or wearable use  
 - large-scale data collection  
 - unobtrusive daily-life studies  
+
+## Demonstration Video
+
+<video controls playsinline muted width="720" poster="assets/images/pr1_sp_poster.jpg">
+  <source src="assets/videos/pr1_sp_data_acquisition.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 This open-source system enables:
 
