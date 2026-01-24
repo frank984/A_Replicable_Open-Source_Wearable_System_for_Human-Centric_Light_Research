@@ -62,7 +62,7 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - unobtrusive daily-life studies  
 
 #### Demonstration Video:
-
+[!<img width="417" height="611" alt="image" src="https://github.com/user-attachments/assets/dbebbd76-d40b-4b78-b8f2-f0ec997968f4" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
 
 This open-source system enables:
 
