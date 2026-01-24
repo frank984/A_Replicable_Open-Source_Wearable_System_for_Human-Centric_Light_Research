@@ -62,7 +62,7 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - unobtrusive daily-life studies  
 
 #### Example video illustrating the PR1‑SP acquisition steps (click on the image below, and remember that the video has been sped up by a factor of 10):
-[!<img width="208" height="305" alt="image" src="https://github.com/user-attachments/assets/dbebbd76-d40b-4b78-b8f2-f0ec997968f4" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
+[!<img width="301" height="407" alt="image" src="https://github.com/user-attachments/assets/2eaba38f-78f6-4265-b4fb-33ce61648eba" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
 
 This open-source system enables:
 
