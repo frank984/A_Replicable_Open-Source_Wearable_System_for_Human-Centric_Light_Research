@@ -53,7 +53,7 @@ If you use this repository, please cite the related article (DOI forthcoming)
 along with this repository.
 
 ## Why Open Source?
-
+https://cnrsc-my.sharepoint.com/:v:/g/personal/francesco_salamone_cnr_it/IQBXK-VtnqwfRoUgZ7jhxRXbAf77qKJNJ28_cOxuek-6UTw?e=ppEEgR
 Professional-grade spectroradiometers are accurate but not suitable for:
 
 - long-term monitoring  
