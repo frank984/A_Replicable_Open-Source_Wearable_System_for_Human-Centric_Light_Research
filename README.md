@@ -7,7 +7,7 @@ This project investigates whether a **low‑cost, open‑source wearable spectro
 
 1. **How does the accuracy of a DIY/DIT spectroradiometer compare with professional commercial instruments?**  
 2. **Is measurement performance affected by long‑term use, the 3D‑printed housing, or auxiliary sensors integrated on the same MCU?**  
-3. **Do visual and non‑visual metrics (e.g., photopic illuminance, melanopic EDI) computed through Python scripts differ from those produced by commercial software tools?**
+3. **Do visual and non‑visual metrics (e.g., photopic illuminance, melanopic EDI) computed through Python scripts differ from those produced by commercial software tools or CIE S 026 Toolbox?**
 
 ## Our Approach
 
