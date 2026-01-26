@@ -22,7 +22,7 @@ We developed an **open‑source wearable device** incorporating:
 Two measurement campaigns validated the prototype:
 
 ### **1. ZEB Lab (ITC‑CNR, San Giuliano Milanese)**  
-- Compared low‑cost spectroradiometers (LC1‑sp, LC2‑sp) with **DeltaOhm HD30.1 + HD30.S1 (PR1‑sp)**  
+- Compared low‑cost spectroradiometers, the **nanolambda NSP32m (LC1‑sp)** and the **nanolambda XL500 (LC2‑sp)** with **DeltaOhm HD30.1 + HD30.S1 (PR1‑sp)**  
 - Tested LED, halogen, fluorescent, incandescent, and daylight sources  
 - Illuminance range: **50–500 lx**, CCT: **2500–7000 K**
 
