@@ -91,9 +91,9 @@ Our goal is to make human‑centric light monitoring **accessible, modifiable, a
 - **Francesco Salamone** – Conceptualization, Methodology, Hardware and Software design and development, Data curation, Validation, Visualization, Writing – original draft, Writing – review & editing  
 - **Giovanni Ciampi, Michelangelo Scorpio** – Data curation for PR2-sp on the SENS i-lab test, Writing – review & editing  
 - **Massimiliano Masullo** – Supervision, Conceptualization, Methodology, Writing – review & editing  
-- **Ludovico Danza** – Funding acquisition for spectroradiometer modules, Writing – review & editing 
+- **Ludovico Danza** – Funding acquisition for LC1-sp module, Writing – review & editing 
 - **Matteo Ghellere, A. Devitofrancesco, A. Bellazzi** – Data curation for PR1-sp on the ZEB lab test, Writing – review & editing
-- **Sergio Sibilio** – Supervision, Conceptualization, Methodology, Validation, Writing – review & editing  
+- **Sergio Sibilio** – Funding acquisition for LC2-sp module, Supervision, Conceptualization, Methodology, Validation, Writing – review & editing  
 
 ## License  
 ### CC Attribution‑NonCommercial 4.0 International
