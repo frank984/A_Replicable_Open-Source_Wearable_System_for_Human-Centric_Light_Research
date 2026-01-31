@@ -16,7 +16,8 @@ SENS_i-lab_Lx_NL_100_C,SENS_i-lab,LED,4028*,NL-Neutral light,100,C-Ceiling
 SENS_i-lab_Lx_NL_50_C,SENS_i-lab,LED,4023*,NL-Neutral light,50,C-Ceiling
 SENS_i-lab_Lx_CL_100_C,SENS_i-lab,LED,5734*,CL-Cool light,100,C-Ceiling
 SENS_i-lab_Lx_CL_50_C,SENS_i-lab,LED,5693*,CL-Cool light,50,C-Ceiling
-"Subscript ""x"" marks delays added to PR2-sp acquisition. Delays: 1=none, 2=5s, 3=10s. The symbol ""*"" indicates values obtained from the arithmetic mean of 3 measurements.",,,,,,
+"The ""x"" marks delays added to PR2-sp acquisition. Delays: 1=none, 2=5s, 3=10s. The symbol ""*"" indicates values obtained from the arithmetic mean of 3 measurements.",,,,,,
+
 
 
 
