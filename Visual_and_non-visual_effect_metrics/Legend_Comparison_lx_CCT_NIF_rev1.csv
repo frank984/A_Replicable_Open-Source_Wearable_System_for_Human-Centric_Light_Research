@@ -1,0 +1,72 @@
+﻿Column heading,Explanation
+Configuration ID,Identification of the tested configuration
+CCT_[K]_prof_sw,Correlated Color Temperature calculated using the proprietary software and spectrum of the PRx-sp
+CCT_[K]_prof_Luxpy,Correlated Color Temperature calculated using LuxPy and spectrum of the PRx-sp
+CCT_[K]_low_Luxpy,Correlated Color Temperature calculated using LuxPy and spectrum of the LC1-sp
+E_[lx]_prof_sw,Illuminance calculated using the proprietary software and spectrum of the PRx-sp
+E_[lx]_prof_Luxpy,Illuminance calculated using LuxPy and spectrum of the PRx-sp
+E_[lx]_prof_CIE,Illuminance calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+E_[lx]_low_Luxpy,Illuminance calculated using LuxPy and spectrum of the LC1-sp
+CRI_[Ra]_prof_sw,Color Rendering Index calculated using the proprietary software and spectrum of the PRx-sp
+CRI_[Ra]_prof_LuxPy,Color Rendering Index calculated using LuxPy and spectrum of the PRx-sp
+CRI_[Ra]_low_Luxpy,Color Rendering Index using LuxPy and spectrum of the LC1-sp
+α-opic irr_L-cone_[W.m-2]_prof_LuxPy,α-opic irradiance - L-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic irr_M-cone_[W.m-2]_prof_LuxPy,α-opic irradiance - M-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic irr_S-cone_[W.m-2]_prof_LuxPy,α-opic irradiance - S-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic irr_Rhodopic_[W.m-2]_prof_LuxPy,α-opic irradiance - Rhodopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic irr_Melanopic_[W.m-2]_prof_LuxPy,α-opic irradiance - Melanopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic irr_L-cone_[W.m-2]_prof_CIE,α-opic irradiance - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic irr_M-cone_[W.m-2]_prof_CIE,α-opic irradiance - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic irr_S-cone_[W.m-2]_prof_CIE,α-opic irradiance - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic irr_Rhodopic_[W.m-2]_prof_CIE,α-opic irradiance - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic irr_Melanopic_[W.m-2]_prof_CIE,α-opic irradiance - Melanopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic irr_L-cone_[W.m-2]_low_LuxPy,α-opic irradiance - L-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic irr_M-cone_[W.m-2]_low_LuxPy,α-opic irradiance - M-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic irr_S-cone_[W.m-2]_low_LuxPy,α-opic irradiance - S-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic irr_Rhodopic_[W.m-2]_low_LuxPy,α-opic irradiance - Rhodopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic irr_Melanopic_[W.m-2]_low_LuxPy,α-opic irradiance - Melanopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic irr_L-cone_[W.m-2]_low_CIE,α-opic irradiance - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic irr_M-cone_[W.m-2]_low_CIE,α-opic irradiance - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic irr_S-cone_[W.m-2]_low_CIE,α-opic irradiance - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic irr_Rhodopic_[W.m-2]_low_CIE,α-opic irradiance - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic irr_Melanopic_[W.m-2]_low_CIE,α-opic irradiance - Melanopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic elr_L-cone_[mW.lm-1]_prof_LuxPy,α-opic efficacy of luminous radiation - L-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic elr_M-cone_[mW.lm-1]_prof_LuxPy,α-opic efficacy of luminous radiation - M-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic elr_S-cone_[mW.lm-1]_prof_LuxPy,α-opic efficacy of luminous radiation - S-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic elr_Rhodopic_[mW.lm-1]_prof_LuxPy,α-opic efficacy of luminous radiation - Rhodopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic elr_Melanopic_[mW.lm-1]_prof_LuxPy,α-opic efficacy of luminous radiation - Melanopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic elr_L-cone_[mW.lm-1]_prof_CIE,α-opic efficacy of luminous radiation - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic elr_M-cone_[mW.lm-1]_prof_CIE,α-opic efficacy of luminous radiation - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic elr_S-cone_[mW.lm-1]_prof_CIE,α-opic efficacy of luminous radiation - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic elr_Rhodopic_[mW.lm-1]_prof_CIE,α-opic efficacy of luminous radiation - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic elr_Melanopic_[mW.lm-1]_prof_CIE,α-opic efficacy of luminous radiation - Melanopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic elr_L-cone_[mW.lm-1]_low_LuxPy,α-opic efficacy of luminous radiation - L-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic elr_M-cone_[mW.lm-1]_low_LuxPy,α-opic efficacy of luminous radiation - M-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic elr_S-cone_[mW.lm-1]_low_LuxPy,α-opic efficacy of luminous radiation - S-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic elr_Rhodopic_[mW.lm-1]_low_LuxPy,α-opic efficacy of luminous radiation - Rhodopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic elr_Melanopic_[mW.lm-1]_low_LuxPy,α-opic efficacy of luminous radiation - Melanopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic elr_L-cone_[mW.lm-1]_low_CIE,α-opic efficacy of luminous radiation - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic elr_M-cone_[mW.lm-1]_low_CIE,α-opic efficacy of luminous radiation - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic elr_S-cone_[mW.lm-1]_low_CIE,α-opic efficacy of luminous radiation - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic elr_Rhodopic_[mW.lm-1]_low_CIE,α-opic efficacy of luminous radiation - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic elr_Melanopic_[mW.lm-1]_low_CIE,α-opic efficacy of luminous radiation - Melanopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic edi_L-cone_[lx]_prof_LuxPy,α-opic equivalent daylight (D65) illuminance - L-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic edi_M-cone_[lx]_prof_LuxPy,α-opic equivalent daylight (D65) illuminance - M-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic edi_S-cone_[lx]_prof_LuxPy,α-opic equivalent daylight (D65) illuminance - S-cone-opic calculated using LuxPy and spectrum of the PRx-sp
+α-opic edi_Rhodopic_[lx]_prof_LuxPy,α-opic equivalent daylight (D65) illuminance - Rhodopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic edi_Melanopic_[lx]_prof_LuxPy,α-opic equivalent daylight (D65) illuminance - Melanopic calculated using LuxPy and spectrum of the PRx-sp
+α-opic edi_L-cone_[lx]_prof_CIE,α-opic equivalent daylight (D65) illuminance - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic edi_M-cone_[lx]_prof_CIE,α-opic equivalent daylight (D65) illuminance - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic edi_S-cone_[lx]_prof_CIE,α-opic equivalent daylight (D65) illuminance - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic edi_Rhodopic_[lx]_prof_CIE,α-opic equivalent daylight (D65) illuminance - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic edi_Melanopic_[lx]_prof_CIE,α-opic equivalent daylight (D65) illuminance - Melanopic calculated using CIE S 026 Toolbox and spectrum of the PRx-sp
+α-opic edi_L-cone_[lx]_low_LuxPy,α-opic equivalent daylight (D65) illuminance - L-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic edi_M-cone_[lx]_low_LuxPy,α-opic equivalent daylight (D65) illuminance - M-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic edi_S-cone_[lx]_low_LuxPy,α-opic equivalent daylight (D65) illuminance - S-cone-opic calculated using LuxPy and spectrum of the LC1-sp
+α-opic edi_Rhodopic_[lx]_low_LuxPy,α-opic equivalent daylight (D65) illuminance - Rhodopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic edi_Melanopic_[lx]_low_LuxPy,α-opic equivalent daylight (D65) illuminance - Melanopic calculated using LuxPy and spectrum of the LC1-sp
+α-opic edi_L-cone_[lx]_low_CIE,α-opic equivalent daylight (D65) illuminance - L-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic edi_M-cone_[lx]_low_CIE,α-opic equivalent daylight (D65) illuminance - M-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic edi_S-cone_[lx]_low_CIE,α-opic equivalent daylight (D65) illuminance - S-cone-opic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic edi_Rhodopic_[lx]_low_CIE,α-opic equivalent daylight (D65) illuminance - Rhodopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
+α-opic edi_Melanopic_[lx]_low_CIE,α-opic equivalent daylight (D65) illuminance - Melanopic calculated using CIE S 026 Toolbox and spectrum of the LC1-sp
