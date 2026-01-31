@@ -1,20 +1,21 @@
 ﻿Configuration ID,Lab,Source type,Source CCT [K],Type of light,Source intensity [%],Source location
 ZEB_lab_L_WL_100_C,ZEB lab,LED,3019,WL-Warm light,100,C-Ceiling
-ZEB_lab_L_NL_100_C,,LED,4395,NL-Neutral light,100,C-Ceiling
-ZEB_lab_L_CL_100_C,,LED,7060,CL-Cool light,100,C-Ceiling
-ZEB_lab_H_WL_100_S,,Halogen,2748,WL-Warm light,100,S-Support
-ZEB_lab_L_CL_100_S,,LED,6330,CL-Cool light,100,S-Support
-ZEB_lab_F_WL_100_S,,Fluorescent,2574,WL-Warm light,100,S-Support
-ZEB_lab_I_WL_100_S,,Incandescent,2754,WL-Warm light,100,S-Support
-ZEB_lab_D_CL_100_W,,Daylight,5888,CL-Cool light,100 (no shading),W-Window
+ZEB_lab_L_NL_100_C,ZEB lab,LED,4395,NL-Neutral light,100,C-Ceiling
+ZEB_lab_L_CL_100_C,ZEB lab,LED,7060,CL-Cool light,100,C-Ceiling
+ZEB_lab_H_WL_100_S,ZEB lab,Halogen,2748,WL-Warm light,100,S-Support
+ZEB_lab_L_CL_100_S,ZEB lab,LED,6330,CL-Cool light,100,S-Support
+ZEB_lab_F_WL_100_S,ZEB lab,Fluorescent,2574,WL-Warm light,100,S-Support
+ZEB_lab_I_WL_100_S,ZEB lab,Incandescent,2754,WL-Warm light,100,S-Support
+ZEB_lab_D_CL_100_W,ZEB lab,Daylight,5888,CL-Cool light,100 (no shading),W-Window
 SENS_i-lab_Fx_CL_100_D,SENS-i lab,Fluorescent,6816*,CL-Cool light,100,D-Desktop
-SENS_i-lab_Ix_WL_100_D,,Incandescent,2968*,WL-Warm light,100,D-Desktop
-SENS_i-lab_Lx_WL_100_D,,LED,2802*,WL-Warm light,100,D-Desktop
-SENS_i-lab_Lx_WL_100_C,,LED,2881*,WL-Warm light,100,C-Ceiling
-SENS_i-lab_Lx_WL_50_C,,LED,2871*,WL-Warm light,50,C-Ceiling
-SENS_i-lab_Lx_NL_100_C,,LED,4028*,NL-Neutral light,100,C-Ceiling
-SENS_i-lab_Lx_NL_50_C,,LED,4023*,NL-Neutral light,50,C-Ceiling
-SENS_i-lab_Lx_CL_100_C,,LED,5734*,CL-Cool light,100,C-Ceiling
-SENS_i-lab_Lx_CL_50_C,,LED,5693*,CL-Cool light,50,C-Ceiling
+SENS_i-lab_Ix_WL_100_D,SENS-i lab,Incandescent,2968*,WL-Warm light,100,D-Desktop
+SENS_i-lab_Lx_WL_100_D,SENS-i lab,LED,2802*,WL-Warm light,100,D-Desktop
+SENS_i-lab_Lx_WL_100_C,SENS-i lab,LED,2881*,WL-Warm light,100,C-Ceiling
+SENS_i-lab_Lx_WL_50_C,SENS-i lab,LED,2871*,WL-Warm light,50,C-Ceiling
+SENS_i-lab_Lx_NL_100_C,SENS-i lab,LED,4028*,NL-Neutral light,100,C-Ceiling
+SENS_i-lab_Lx_NL_50_C,SENS-i lab,LED,4023*,NL-Neutral light,50,C-Ceiling
+SENS_i-lab_Lx_CL_100_C,SENS-i lab,LED,5734*,CL-Cool light,100,C-Ceiling
+SENS_i-lab_Lx_CL_50_C,SENS-i lab,LED,5693*,CL-Cool light,50,C-Ceiling
 "Subscript ""x"" marks delays added to PR2-sp acquisition. Delays: 1=none, 2=5s, 3=10s. The symbol ""*"" indicates values obtained from the arithmetic mean of 3 measurements.",,,,,,
+
 
