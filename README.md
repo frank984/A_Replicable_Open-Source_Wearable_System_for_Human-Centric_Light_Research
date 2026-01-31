@@ -72,7 +72,7 @@ This open-source system enables:
 - **On-device computation of visual and non-visual metrics**  
 - **Affordable scaling for population studies**  
 - **Fully transparent, reproducible workflows**
-- 
+
 Our goal is to make human‑centric light monitoring **accessible, modifiable, and scientifically robust**.
 
 ## Repository Contents
