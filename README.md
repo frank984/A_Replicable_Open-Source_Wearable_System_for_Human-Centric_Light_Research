@@ -60,10 +60,10 @@ Professional-grade spectroradiometers are accurate but not suitable for:
 - large-scale data collection  
 - unobtrusive daily-life studies  
 
-**Example video illustrating the PR1‑SP acquisition steps** (Click the image below. Note: the video is 10x speed.):  
+**Example video illustrating the PR1‑SP acquisition steps** (Click the image below and note: the video is 10x speed):  
 [<img width="301" height="407" alt="image" src="https://github.com/user-attachments/assets/2eaba38f-78f6-4265-b4fb-33ce61648eba" />](https://youtube.com/shorts/vFOOwzJvH8o?si=PPmpHsuS9cYaFXWf)
 
-**Example video showing the LC1‑SP automatic acquisition approach** (click on the image below, and remember that the video has not been sped up):
+**Example video showing the LC1‑SP automatic acquisition approach** (click on the image belowand note: the video has not been sped up):
 [<img width="581" height="262" alt="image" src="https://github.com/user-attachments/assets/b35c8d8e-4b1c-4fec-a9ba-c517c6e0b607" />](https://www.youtube.com/watch?v=3A9F1TD3kME?si=_e-iThfWU_JiZLf4)
 
 This open-source system enables:
