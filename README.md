@@ -43,7 +43,7 @@ Two measurement campaigns validated the prototype:
 
 The methodology and results are presented in:
 
-**A Replicable Open‑Source Wearable System for Human‑Centric Light Research**  
+**A Replicable Open-Source Wearable System for Human-Centric Light Research: Integrated Hardware and Software for Spectral Acquisition and Multi-Metric Assessment of Visual and Non-Visual Effects**  
 F. Salamone, G. Ciampi, M. Scorpio, M. Masullo, L. Danza, M. Ghellere,  
 A. Devitofrancesco, A. Bellazzi, S. Sibilio.  
 (Full reference/DOI will be added upon publication.)
