@@ -77,9 +77,8 @@ Our goal is to make human‑centric light monitoring **accessible, modifiable, a
 
 ## Repository Contents
 
-- 3D‑printed enclosure and mounting files  (not yet shared)
-- Firmware and acquisition scripts  (not yet shared)
-- Python pipelines implementing LuxPy and CIE S 026 metrics  (not yet shared)
+- 3D‑printed enclosure and mounting files  (it will be shared very soon)
+- Firmware and acquisition scripts with Python pipelines implementing LuxPy and CIE S 026 metrics  (it will be shared very soon)
 - Measurement datasets and comparison plots 
 
 ## Author Contributions
