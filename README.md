@@ -1,5 +1,7 @@
 # A Replicable Open‑Source Wearable System for Human‑Centric Light Research  
 **Integrated hardware and software for spectral acquisition and multi‑metric assessment of visual and non‑visual light effects**
+<img width="1536" height="1024" alt="graphic_abstract" src="https://github.com/user-attachments/assets/df3fe10b-6575-4156-b637-bea32fdbf791" />
+
 
 ## Research Questions
 
@@ -51,7 +53,7 @@ A. Devitofrancesco, A. Bellazzi, S. Sibilio.
 If you use this repository, please cite the related article (DOI forthcoming)  
 along with this repository.
 
-## Why Open Source?
+## Why Open-Source?
 
 Professional-grade spectroradiometers are accurate but not suitable for:
 
